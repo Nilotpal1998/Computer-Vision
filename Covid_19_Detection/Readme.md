@@ -33,4 +33,4 @@
 <p align="centre">
   <img src="https://github.com/Nilotpal1998/Computer-Vision/blob/main/Covid_19_Detection/images/eval_result.png" title="Evaluation on ResNet18",alt="ResNet18">
 </p>
-<p>Hence, we come to conclude here but there are many areas to improve. this project is under development and we are also trying to incorporate other transfer learning techniques for better results. Thank You. </p>
+<p>we have almost reached an accuracy of almost <b>97.5 percent accuracy </b> . This project is under development and we are also trying to incorporate other transfer learning techniques for better results. Thank You. </p>
