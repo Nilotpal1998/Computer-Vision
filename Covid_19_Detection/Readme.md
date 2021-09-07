@@ -24,3 +24,13 @@
   <img src="https://github.com/Nilotpal1998/Computer-Vision/blob/main/Covid_19_Detection/images/CrossEntopy.png" title="ResNet18 Model Architecture",alt="ResNet18">
 </p>
 <p>where p i and q i denote the ground-truth, and predicted probabilities for each image, respectively.</p>
+<h4>Evaluation Metrics</h4>
+<p>There are different metrics which can be used for evaluating the performance of classification models, such as classification accuracy, sensitivity, specificity, precision, and F1-score. Since the current test dataset is highly imbalanced (100 COVID-19 images, 3000 Non-COVID image), sensitivity and specificity are two proper metrics which can be used for reporting the model performance:</p>
+<p align="centre">
+  <img src="https://github.com/Nilotpal1998/Computer-Vision/blob/main/Covid_19_Detection/images/Eval.png" title="Evaluation Metrics",alt="ResNet18">
+</p>
+<p>This is the evaluation results which our model architecture has received:-</p>
+<p align="centre">
+  <img src="https://github.com/Nilotpal1998/Computer-Vision/blob/main/Covid_19_Detection/images/eval_result.png" title="Evaluation on ResNet18",alt="ResNet18">
+</p>
+<p>Hence, we come to conclude here but there are many areas to improve. this project is under development and we are also trying to incorporate other transfer learning techniques for better results. Thank You. </p>
